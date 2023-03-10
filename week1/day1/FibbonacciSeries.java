@@ -10,7 +10,8 @@ public class FibbonacciSeries {
 		System.out.println(firstnum);
 		System.out.println(secondnum);
 		
-		for (firstnum=0;firstnum<=21;)
+		//for (firstnum=0;firstnum<=21;)
+		for (int i=1;i<11;i++)
 		{
 			//0+1
 			sum =firstnum+secondnum;
